@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Bloodtype",""],["Constellations",""],["Mode",""],["Sex",""],["Type",""]],"struct":[["Chat",""],["Request",""],["Response",""]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["chat_dialogue",""]]});
