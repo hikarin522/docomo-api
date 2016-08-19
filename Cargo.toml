@@ -2,6 +2,12 @@
 authors = ["＼ﾋｯｶﾘｰﾝ／ <s.nlf.fh@gmail.com>"]
 name = "docomo-api"
 version = "0.1.0"
+description = "docomo API client"
+documentation = "https://s-nlf-fh.github.io/docomo-api/target/doc/docomo_api/"
+repository = "https://github.com/s-nlf-fh/docomo-api"
+readme = "README.md"
+keywords = ["docomo"]
+license = "MIT"
 
 [dependencies]
 hyper = "0.9.10"
