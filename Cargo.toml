@@ -1,0 +1,6 @@
+[package]
+name = "docomo-api"
+version = "0.1.0"
+authors = ["＼ﾋｯｶﾘｰﾝ／ <s.nlf.fh@gmail.com>"]
+
+[dependencies]
