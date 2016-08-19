@@ -5,4 +5,4 @@ extern crate serde;
 extern crate serde_json;
 extern crate hyper;
 
-pub mod docomo_api;
+pub mod chat_dialogue;
